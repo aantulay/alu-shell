@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # Write "I am alive!" to /tmp/my_process every 2 seconds, forever
 while true
 do
